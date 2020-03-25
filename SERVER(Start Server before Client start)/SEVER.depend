@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1533448507 source:c:\users\hasee\2017210415\sever\main.c
+	"SEVERall.h"
+
+1533373142 source:c:\users\hasee\2017210415\sever\connecting_flash.c
+	"SEVERall.h"
+
+1533376555 c:\users\hasee\2017210415\sever\severall.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<WinSock2.h>
+	<pthread.h>
+
+1533388606 source:c:\users\hasee\2017210415\sever\thread1.c
+	"SEVERall.h"
+
+1533388445 source:c:\users\hasee\2017210415\sever\thread2.c
+	"SEVERall.h"
+
+1533453537 source:c:\users\hasee\2017210415\sever\src\connecting_flash.c
+	"../head/SEVERall.h"
+
+1533460195 c:\users\hasee\2017210415\sever\head\severall.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<WinSock2.h>
+	<pthread.h>
+	<time.h>
+	<string.h>
+
+1533456959 source:c:\users\hasee\2017210415\sever\src\main.c
+	"../head/SEVERall.h"
+
+1533532954 source:c:\users\hasee\2017210415\sever\src\thread1.c
+	"../head/SEVERall.h"
+
+1533460215 source:c:\users\hasee\2017210415\sever\src\thread2.c
+	"../head/SEVERall.h"
+
+1533516940 source:c:\users\hasee\2017210415\sever\src\check_in.c
+	"../head/SEVERall.h"
+
+1533519063 source:c:\users\hasee\2017210415\sever\src\messagefile.c
+	"../head/SEVERall.h"
+
+1533518747 source:c:\users\hasee\2017210415\sever\src\checkmessagefile.c
+	"../head/SEVERall.h"
+
+1584616095 source:c:\users\hasee\2017210415\sever\src\start.c
+	"../head/SEVERall.h"
+
